@@ -1,6 +1,6 @@
 services:
   backend:
-    build: docker-example-backend
+    build: .
     ports:
       - 3000:3000
   redis:
