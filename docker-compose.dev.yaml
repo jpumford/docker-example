@@ -1,0 +1,2 @@
+# TODO
+# likely unable to easily use docker for backend and frontend since running npm install is difficult (and conflicts with tools like eslint)
